@@ -169,7 +169,21 @@ This lab provided practice in importing CSV data into Splunk Enterprise, writing
 <img width="975" height="180" alt="image" src="https://github.com/user-attachments/assets/69399406-cbd4-4d86-8f40-0885b00f3f24" />
 
 
+<img width="975" height="333" alt="image" src="https://github.com/user-attachments/assets/05c28eef-e9d5-476e-832f-253cc30104b4" />
 
+
+<img width="975" height="396" alt="image" src="https://github.com/user-attachments/assets/7f8cb2ec-2692-44cc-acfe-05ad81ce9a82" />
+
+
+<img width="975" height="434" alt="image" src="https://github.com/user-attachments/assets/6a7bf963-519e-4358-a6e3-225b371cf2cd" />
+
+
+<img width="975" height="260" alt="image" src="https://github.com/user-attachments/assets/9ea44d1f-1d97-4c0f-a471-f138635fe052" />
+
+
+<img width="975" height="218" alt="image" src="https://github.com/user-attachments/assets/015b3f2a-181c-4217-a3e7-171b3e47a787" />
+
+<img width="975" height="241" alt="image" src="https://github.com/user-attachments/assets/573b9f79-8417-4875-a772-74ccef2fc95f" />
 
 
 ## Skills Practised
