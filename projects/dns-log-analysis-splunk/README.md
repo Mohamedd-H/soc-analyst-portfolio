@@ -165,6 +165,7 @@ This lab provided practice in importing CSV data into Splunk Enterprise, writing
 - Findings cannot be generalized to a real network.
 - Further practice could correlate DNS events with firewall, endpoint, authentication, and network logs.
 - Any real-world assessment would require more context, baseline behaviour, and corroborating evidence.
+
 ## Screenshots
 <img width="975" height="180" alt="image" src="https://github.com/user-attachments/assets/69399406-cbd4-4d86-8f40-0885b00f3f24" />
 
