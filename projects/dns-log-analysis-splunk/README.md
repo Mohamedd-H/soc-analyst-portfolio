@@ -1,4 +1,3 @@
-
 # DNS Log Analysis with Splunk SIEM
 
 ## Project Overview
@@ -166,19 +165,25 @@ This lab provided practice in importing CSV data into Splunk Enterprise, writing
 - Findings cannot be generalized to a real network.
 - Further practice could correlate DNS events with firewall, endpoint, authentication, and network logs.
 - Any real-world assessment would require more context, baseline behaviour, and corroborating evidence.
-
 ## Screenshots
 
-Add screenshots of your own Splunk results in this section. Suggested filenames:
+ 
 
-1. `screenshots/01-response-code-summary.png`
-2. `screenshots/02-domain-frequency.png`
-3. `screenshots/03-client-domain-analysis.png`
-4. `screenshots/04-client-event-details.png`
-5. `screenshots/05-refused-request-analysis.png`
-6. `screenshots/06-response-codes-by-client.png`
+ 
 
-Only include screenshots that you personally captured from your Splunk session. Ensure they do not expose real sensitive information.
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
 
 ## Skills Practised
 
